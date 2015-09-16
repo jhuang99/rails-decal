@@ -67,3 +67,5 @@ ruby autograder.rb
 ```
 
 If 'All functions work' appears in your terminal it means it passed our autograder.  We do go over
+=======
+# rails-decal
